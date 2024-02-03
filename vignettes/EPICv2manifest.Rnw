@@ -81,6 +81,11 @@ library(EPICv2manifest)
 
 \end{itemize}
 
+<<sessionInfo>>=
+sessionInfo()
+@
+
+
 \section*{Sources}
 
 

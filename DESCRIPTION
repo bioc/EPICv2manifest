@@ -6,10 +6,10 @@ Authors@R:
     c(person("Tim", "Peters", , "t.peters@garvan.org.au", role = c("aut", "cre")),
       person("Ruth", "Pidsley", role="ctb"))
 Maintainer: Tim Peters <t.peters@garvan.org.au>
-Description: Extended manifest for the Illumina Infinium MethylationEPIC v2.0 from Peters et al. (2024) including probe performance and recommendation.
+Description:  A data.frame containing an extended probe manifest for the Illumina Infinium Methylation v2.0 Kit. Contains the complete manifest from the Illumina-provided EPIC-8v2-0_EA.csv, plus additional probewise information described in Peters et al. (2024).
 License: Artistic-2.0
 BugReports: https://support.bioconductor.org/t/EPICv2manifest
-Depends: R (>= 4.0)
+Depends: R (>= 4.3.0)
 Imports: 
     AnnotationHub
 Suggests:
