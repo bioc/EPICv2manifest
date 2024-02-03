@@ -12,8 +12,9 @@ BugReports: https://support.bioconductor.org/t/EPICv2manifest
 Depends: R (>= 4.0)
 Imports: 
     AnnotationHub
-Suggests: 
+Suggests:
+    AnnotationHubData, 
     knitr
-biocViews: AnnotationHub, SNPData, Homo_sapiens_Data, MicroarrayData, Genome
+biocViews: AnnotationData, AnnotationHub, probe, IlluminaChip, Homo_sapiens
 Encoding: UTF-8
 VignetteBuilder: knitr

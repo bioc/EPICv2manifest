@@ -18,6 +18,6 @@ meta <- data.frame(
   Maintainer = "Tim Peters <t.peters@garvan.org.au>",
   RDataClass = "data.frame",
   DispatchClass = "Rda",
-  RDataPath = "epicv2snps.Rda")
+  RDataPath = "EPICv2manifest.Rda")
 
 write.csv(meta, file="inst/extdata/metadata.csv", row.names=FALSE)
