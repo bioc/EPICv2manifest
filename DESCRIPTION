@@ -1,0 +1,19 @@
+Package: EPICv2manifest
+Title: Illumina Infinium MethylationEPIC v2.0 extended manifest from Peters et al. 2024
+Version: 0.99.0
+Date: 2024-03-02
+Authors@R: 
+    c(person("Tim", "Peters", , "t.peters@garvan.org.au", role = c("aut", "cre")),
+      person("Ruth", "Pidsley", role="ctb"))
+Maintainer: Tim Peters <t.peters@garvan.org.au>
+Description: Extended manifest for the Illumina Infinium MethylationEPIC v2.0 from Peters et al. (2024) including probe performance and recommendation.
+License: Artistic-2.0
+BugReports: https://support.bioconductor.org/t/EPICv2manifest
+Depends: R (>= 4.0)
+Imports: 
+    AnnotationHub
+Suggests: 
+    knitr
+biocViews: AnnotationHub, SNPData, Homo_sapiens_Data, MicroarrayData, Genome
+Encoding: UTF-8
+VignetteBuilder: knitr
