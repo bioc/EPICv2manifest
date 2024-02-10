@@ -1,10 +1,10 @@
 ---
-output: html_document
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{The EPICv2manifest package user's guide}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
-<!--
-%\VignetteEngine{knitr::knitr}
-%\VignetteIndexEntry{The EPICv2manifest package user's guide}
--->
 
 # The EPICv2manifest package user's guide
 
@@ -71,6 +71,11 @@ EPICv2manifest is an annotation package providing a data.frame object containing
 - `Rep_results_by_SEQUENCE` - results of competitive comparison between replicates, with replicate probe sets defined by column `seqrep_IlmnIDs`
   
 - `Rep_results_by_LOCATION` -  results of competitive comparison between replicates, with replicate probe sets defined by column `posrep_IlmnIDs`
+
+```{sessioninfo}
+sessionInfo()
+```
+
 
 ## References
 

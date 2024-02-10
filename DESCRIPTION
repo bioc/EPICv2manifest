@@ -1,6 +1,6 @@
 Package: EPICv2manifest
 Title: Illumina Infinium MethylationEPIC v2.0 extended manifest from Peters et al. 2024
-Version: 0.99.1
+Version: 0.99.2
 Date: 2024-10-02
 Authors@R: 
     c(person("Tim", "Peters", , "t.peters@garvan.org.au", role = c("aut", "cre")),
