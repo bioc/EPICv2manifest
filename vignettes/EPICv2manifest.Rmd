@@ -72,6 +72,14 @@ EPICv2manifest is an annotation package providing a data.frame object containing
   
 - `Rep_results_by_LOCATION` -  results of competitive comparison between replicates, with replicate probe sets defined by column `posrep_IlmnIDs`
 
+To access the EPICv2manifest object, please run the following:
+
+```{getmanifest}
+library(AnnotationHub)
+ah <- AnnotationHub()
+EPICv2manifest <- ah[["AH116484"]]
+```
+
 ```{sessioninfo}
 sessionInfo()
 ```
