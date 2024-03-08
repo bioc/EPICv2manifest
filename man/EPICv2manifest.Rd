@@ -9,7 +9,7 @@
 \value{A data.frame containing 80 columns, with Illumina IDs as rownames}
 \format{data.frame}
 \references{
-Peters, T.J., Meyer, B., Ryan, L., Achinger-Kawecka, J., Song, J., Campbell, E.M., Qu, W., Nair, S., Loi-Luu, P., Stricker, P., Lim, E., Stirzaker, C., Clark, S.J. and Pidsley, (2024). Characterisation and reproducibility of the HumanMethylationEPIC v2.0 BeadChip for DNA methylation profiling. BMC Genomics \bold{25}, 251. doi:10.1186/s12864-024-10027-5.
+Peters, T.J., Meyer, B., Ryan, L., Achinger-Kawecka, J., Song, J., Campbell, E.M., Qu, W., Nair, S., Loi-Luu, P., Stricker, P., Lim, E., Stirzaker, C., Clark, S.J. and Pidsley, R. (2024). Characterisation and reproducibility of the HumanMethylationEPIC v2.0 BeadChip for DNA methylation profiling. BMC Genomics \bold{25}, 251. doi:10.1186/s12864-024-10027-5.
 }
-\source{"https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10027-5"}
+\source{\url{https://static-content.springer.com/esm/art\%3A10.1186\%2Fs12864-024-10027-5/MediaObjects/12864_2024_10027_MOESM4_ESM.csv}}
 \keyword{datasets}
