@@ -8,5 +8,8 @@
 \usage{data(EPICv2manifest)}
 \value{A data.frame containing 80 columns, with Illumina IDs as rownames}
 \format{data.frame}
-\source{"https://bioconductor.org/packages/release/data/annotation/html/EPICv2manifest.html"}
+\references{
+Peters, T.J., Meyer, B., Ryan, L., Achinger-Kawecka, J., Song, J., Campbell, E.M., Qu, W., Nair, S., Loi-Luu, P., Stricker, P., Lim, E., Stirzaker, C., Clark, S.J. and Pidsley, (2024). Characterisation and reproducibility of the HumanMethylationEPIC v2.0 BeadChip for DNA methylation profiling. BMC Genomics \bold{25}, 251. doi:10.1186/s12864-024-10027-5.
+}
+\source{"https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10027-5"}
 \keyword{datasets}
